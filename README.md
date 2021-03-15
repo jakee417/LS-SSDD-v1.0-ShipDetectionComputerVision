@@ -6,12 +6,6 @@ Given the numerous models under consideration and the modular data downloading p
 Note that model weights, model output, and the dataset are *not* in this repo. The original dataset can be found at:
 https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
 
-Some cool visualizations of our model output!
-![offshorepreds](https://user-images.githubusercontent.com/43712099/111099393-a8010500-8502-11eb-9473-5e796a318688.png)
-![pred_inshore2](https://user-images.githubusercontent.com/43712099/111099407-b0f1d680-8502-11eb-8976-5636b57e1b59.jpg)
-![pred_inshore3](https://user-images.githubusercontent.com/43712099/111099412-b2230380-8502-11eb-9850-f4cdc3082635.jpg)
-
-
 ## Overview
 The root directory features two notebooks training our best model and also performing inference.
 'final_model.ipynb' is where we train the Improved model
@@ -35,3 +29,7 @@ Notebooks for generating plots for the writeup and developing the sea-land mask 
 ### eval
 Notebooks for evaluating our models
 
+Some cool visualizations of our model output!
+![offshorepreds](https://user-images.githubusercontent.com/43712099/111099393-a8010500-8502-11eb-9473-5e796a318688.png)
+![pred_inshore2](https://user-images.githubusercontent.com/43712099/111099407-b0f1d680-8502-11eb-8976-5636b57e1b59.jpg)
+![pred_inshore3](https://user-images.githubusercontent.com/43712099/111099412-b2230380-8502-11eb-9850-f4cdc3082635.jpg)
