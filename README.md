@@ -3,8 +3,9 @@
 This is the code repository for the paper _Small Vessel Detection from Synthetic Aperture Radar (SAR) Imagery using Deep Learning_ .
 
 Given the numerous models under consideration and the modular data downloading process, we present our code through interactive Jupyter notebooks.
-Note that model weights, model output, and the dataset are *not* in this repo. The original dataset can be found at:
-https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
+Note that model weights, model output, and the dataset are *not* in this repo. 
+The original dataset can be found at: https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
+We make heavy use of Detectron2 which can be found at: https://github.com/facebookresearch/detectron2
 
 ## Overview
 The root directory features two notebooks training our best model and also performing inference.
