@@ -2,6 +2,8 @@
  
 This is the code repository for the paper _Small Vessel Detection from Synthetic Aperture Radar (SAR) Imagery using Deep Learning_ .
 
+This project was done as part of Stanford's CS 230, Deep Learning course. Please see this link: https://cs230.stanford.edu/past-projects/#outstanding-projects for our posting. <br/>
+
 Given the numerous models under consideration and the modular data downloading process, we present our code through interactive Jupyter notebooks.
 Note that model weights, model output, and the dataset are *not* in this repo. <br/>
 The original dataset can be found at: https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN <br/>
